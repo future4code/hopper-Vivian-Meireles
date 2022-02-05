@@ -1,0 +1,1 @@
+Essa semana aprendemos a usar o Terminal, Git e o VSCode. foi um pouco complicado, deu um certo desespero, mas com calma, tudo se ajeita e no fim, deu tudo certo e vi que não é tão complicado como imaginei, com **prática** tudo fica mais fácil.
