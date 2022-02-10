@@ -1,2 +1,1 @@
-# Aprendizados da semana
 Nessa semana aprendemos a usar o Terminal e seus maravilhoooosos comandos, o Git , que me fez ver que os comandos do terminal não chegam aos pés dele e o VSCode, que ainda estamos nos estranhando, mas acho que no final vamos nos dar bem... Mas foi uma semana muito produtiva e de muito aprendizado. Apesar de tudo, é muito **gratificante** ver que no final, consegui aprender o que achei que seria impossível.
