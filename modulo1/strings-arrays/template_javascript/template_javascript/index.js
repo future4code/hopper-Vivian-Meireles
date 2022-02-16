@@ -47,15 +47,15 @@
 
 //a.
 
-listaDeTarefas = []
+//listaDeTarefas = []
 
 //b.
 
-const primeiraTarefa = prompt("Insire Sua Primeira Tarefa")
-const segundaTarefa = prompt("Insire Sua Segunda Tarefa")
-const terceiraTarefa = prompt("Insire Sua terceira Tarefa")
+//const primeiraTarefa = prompt("Insire Sua Primeira Tarefa")
+//const segundaTarefa = prompt("Insire Sua Segunda Tarefa")
+//const terceiraTarefa = prompt("Insire Sua terceira Tarefa")
 
-listaDeTarefas.push(primeiraTarefa, segundaTarefa, terceiraTarefa)
+/*listaDeTarefas.push(primeiraTarefa, segundaTarefa, terceiraTarefa)
 
 //c. 
 
@@ -63,22 +63,12 @@ console.log(`As tarefas do dia são: ${listaDeTarefas}`)
 
 //d.
 
-let tarefaRealizada = prompt("Qual a tarefa que você já realizou: 0, 1 ou 2?")
+let tarefaRealizada = prompt("Qual a tarefa que você já realizou: 1, 2 ou 3?")
 
 //e.
 
-//listaDetarefas.splice(tarefaRealizada)
-//const removed = listaDetarefas.splice(tarefaRealizada)
-//listaDeTarefas.splice(indiceUsuario -1, 1)
+listaDeTarefas.splice(tarefaRealizada -1, 1)
 
+//f.
 
-
-console.log(listaDetarefas)
-
-
-
-
-
-//let indice = prompt("Qual a tarefa já realizou? 0, 1 ou 2?")
-//listaDetarefas.splice(indice,1)
-//console.log(listaDetarefas)
+console.log(listaDeTarefas)*/
